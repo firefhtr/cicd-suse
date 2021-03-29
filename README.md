@@ -1,1 +1,1 @@
-Sample app for demo Rancher
+Sample app for demo for Rancher
